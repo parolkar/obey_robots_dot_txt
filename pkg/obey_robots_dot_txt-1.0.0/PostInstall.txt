@@ -1,5 +1,0 @@
-
-For more information on obey_robots_dot_txt, see http://github.com/parolkar/obey_robots_dot_txt
-Or drop me an email abhishek@parolkar.com 
-
-
