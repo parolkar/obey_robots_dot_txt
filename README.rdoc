@@ -13,6 +13,8 @@ Easy to use extension of Net::HTTP to let you obey robots.txt while crawling/scr
 
 == SYNOPSIS:
 
+  require "rubygems"
+  require "obey_robots_dot_txt"
   begin
     @res = Net::HTTP.get_obeying_robots(URI.parse(@url))
   rescue Net::DisobeyingRobotsTxt
